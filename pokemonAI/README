@@ -1,0 +1,14 @@
+For running the project cd into the final project
+directory and use the following command line syntax:
+
+python pokemon.py [option]
+
+where [option] is one of either:
+basic
+intermediate
+advanced
+
+These are the sample runthroughs I've included in my
+project. Basic is a simple run, in which player 1 wins easily,
+advanced is one in which player one wins in more difficult 
+fashion, and intermediate was used mainly for testing purposes.

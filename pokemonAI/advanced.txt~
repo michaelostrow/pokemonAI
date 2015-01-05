@@ -1,0 +1,88 @@
+BEGIN TEAM 1
+--------------------------------
+Glaceon 100 334 240 350 394 317
+ice
+icebeam ice 90 special
+psychic psychic 90 special
+bite dark 65 physical
+shadowball ghost 80 special
+--------------------------------
+Gliscor 100 354 317 383 207 273
+flying ground
+acrobatics flying 60 physical
+earthquake ground 100 physical
+fly flying 85 physical
+xscissor bug 90 physical
+--------------------------------
+Articuno 100 384 295 328 317 383 
+flying ice
+icebeam ice 90 special
+ancientpower rock 60 special
+acrobatics flying 60 physical
+facade normal 70 physical
+--------------------------------
+Pidgeot 100 370 284 273 262 262
+flying normal
+fly flying 85 physical
+peck flying 40 physical
+hurricane flying 110 special
+twister dragon 40 special
+--------------------------------
+Rotom-f 100 304 251 344 339 344
+electric ice
+blizzard ice 110 special
+thunderbolt electric 85 special
+discharge electric 60 special
+shadowball ghost 80 special
+--------------------------------
+Butterfree 100 324 207 218 306 284 
+bug flying
+gust flying 40 special
+confusion psychic 50 special
+bugbuzz bug 90 special
+gust flying 40 special
+--------------------------------
+BEGIN TEAM 2
+--------------------------------
+Swampert 100 383 162 143 287 210
+water ground
+aquatail water 85 physical
+earthquake ground 100 physical
+scald water 60 special
+rocktomb rock 60 physical
+--------------------------------
+Krookodile 100 387 366 233 212 221
+dark ground
+crunch dark 80 physical
+outrage dragon 120 physical
+earthquake ground 100 physical
+brickbreak fighting 75 physical
+--------------------------------
+Zygarde 100 367 311 324 276 255
+ground dragon
+dragonclaw dragon 80 special
+bulldoze ground 60 physical
+flamethrower fire 95 special
+bubblebeam water 65 special
+--------------------------------
+Exeggutor 100 383 286 265 376 251
+grass psychic
+sludgebomb poison 90 special
+flamethrower fire 85 special
+solarbeam grass 120 special
+psychic psychic 90 special
+--------------------------------
+Torterra 100 383 162 143 287 210
+grass ground
+energyball grass 80 special
+vinewhip grass 120 physical
+mudslap ground 50 special
+cut normal 50 physical
+--------------------------------
+Virizion 100 328 302 211 285 357
+grass fighting
+sacredsword fighting 90 physical
+gigadrain grass 75 special
+quickattack normal 40 physical 
+strength normal 80 physical
+--------------------------------

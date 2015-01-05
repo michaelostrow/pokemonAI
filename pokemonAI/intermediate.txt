@@ -1,0 +1,88 @@
+BEGIN TEAM 1
+--------------------------------
+Charizard 100 383 162 143 287 210
+fire flying
+fireblast fire 120 special
+flamethrower fire 85 special
+solarbeam grass 120 special
+dragonclaw dragon 80 physical
+--------------------------------
+Blastoise 100 383 162 143 287 210
+water
+fireblast fire 120 special
+flamethrower fire 85 special
+solarbeam grass 120 special
+dragonclaw dragon 80 physical
+--------------------------------
+Venusaur 100 383 162 143 287 210
+grass poison
+fireblast fire 120 special
+flamethrower fire 85 special
+solarbeam grass 120 special
+dragonclaw dragon 80 physical
+--------------------------------
+Meganium 100 383 162 143 287 210
+grass
+fireblast fire 120 special
+flamethrower fire 85 special
+solarbeam grass 120 special
+dragonclaw dragon 80 physical
+--------------------------------
+Typhlosion 100 383 162 143 287 210
+fire
+fireblast fire 120 special
+flamethrower fire 85 special
+solarbeam grass 120 special
+dragonclaw dragon 80 physical
+--------------------------------
+Feraligatr 100 383 162 143 287 210
+water
+fireblast fire 120 special
+flamethrower fire 85 special
+solarbeam grass 120 special
+dragonclaw dragon 80 physical
+--------------------------------
+BEGIN TEAM 2
+--------------------------------
+Swampert 100 383 162 143 287 210
+water ground
+fireblast fire 120 special
+flamethrower fire 85 special
+solarbeam grass 120 special
+dragonclaw dragon 80 physical
+--------------------------------
+Sceptile 100 383 162 143 287 210
+grass
+fireblast fire 120 special
+flamethrower fire 85 special
+solarbeam grass 120 special
+dragonclaw dragon 80 physical
+--------------------------------
+Blaziken 100 383 162 143 287 210
+fire fighting
+fireblast fire 120 special
+flamethrower fire 85 special
+solarbeam grass 120 special
+dragonclaw dragon 80 physical
+--------------------------------
+Infernape 100 383 162 143 287 210
+fire fighting
+fireblast fire 120 special
+flamethrower fire 85 special
+solarbeam grass 120 special
+dragonclaw dragon 80 physical
+--------------------------------
+Torterra 100 383 162 143 287 210
+grass ground
+fireblast fire 120 special
+flamethrower fire 85 special
+solarbeam grass 120 special
+dragonclaw dragon 80 physical
+--------------------------------
+Empoleon 100 383 162 143 287 210
+water steel
+fireblast fire 120 special
+flamethrower fire 85 special
+solarbeam grass 120 special
+dragonclaw dragon 80 physical
+--------------------------------
